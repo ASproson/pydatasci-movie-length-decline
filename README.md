@@ -17,7 +17,7 @@ This mini-project is attempting to determine whether or not movie lengths have d
 
 
 ### Aggregate Conclusion
-The above line chart clearly indicates that are time has progressed, movie duration has decreased, at least according to the aggregated data. However, this data sample is small we need the rest of the data to draw a conclusion.
+As seen in the line chart clearly indicates that are time has progressed, movie duration has decreased, at least according to the aggregated data. However, this data sample is small we need the rest of the data to draw a conclusion.
 
 ## Conclusion
 As suspected, non-typical genres such as children's movies and documentaries are clustered toward the bottom of the graph. In general it looks like movie duration has not gone down over time, but with this level of analysis the end result is inconclusive.
